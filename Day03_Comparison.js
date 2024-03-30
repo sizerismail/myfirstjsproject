@@ -27,3 +27,5 @@ console.log (s2 && s3);         //null
 console.log(s2 || s3);          //true
 console.log(!s2);               //false
 console.log(s3);                //null
+console.log(!s3);               //true
+
