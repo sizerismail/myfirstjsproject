@@ -1,3 +1,5 @@
+ /* Comparisons */
+
 const s1 = 5;
 
 console.log(s1 == 5);     // true
@@ -11,6 +13,8 @@ console.log (s1 > 5);   // false
 console.log(s1 > "4");  // true
 console.log (s1 >= 5);  // true
 console.log (s1 > "6"); // false
+
+/*Logical Operators */
 
 let s2 = true;
 let s3 = true;
